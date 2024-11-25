@@ -1,0 +1,1 @@
+configs\EggsAutoEnchant.txt

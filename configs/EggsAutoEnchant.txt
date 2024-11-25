@@ -1,0 +1,11 @@
+Unboxing auto enchant eggs
+438
+326
+1
+1
+41, 139, 180
+0
+F1
+F2
+F12
+False
